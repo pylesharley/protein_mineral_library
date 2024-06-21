@@ -16,6 +16,7 @@ Models:
 Scripts:
 
 The scripts used to generate the library of potential mineral-binding interfaces are in PATH/library_design/
+
 	Step 1
 		01_check_in_dhrs.ipynb 
 		
@@ -74,6 +75,7 @@ The scripts used to generate the library of potential mineral-binding interfaces
 
 
 The scripts used to generate the designed beta solnoid repeat scaffolds are in PATH/beta_solenoid_design
+
 	Step 1
 		01_generate_sequences.ipynb
 
