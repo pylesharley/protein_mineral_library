@@ -2,8 +2,8 @@
 
 This GitHub repository contains the design models, and the scripts that generated them, associated with the manuscript:
 
-Controlling semiconductor growth with structured de novo protein interfaces
-Saragovi A., Pyles H., et al. 2024
+Saragovi A., Pyles H., et al. Controlling semiconductor growth with structured de novo protein interfaces. BioRxiv (2024)
+
 DOI: 
 
 
